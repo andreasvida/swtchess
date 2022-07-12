@@ -45,7 +45,7 @@ https://wikipedia.org
 
 
 TODO / ideas for improvements
-
+---
 
 Popup dialog when promoting pawn
 File dialog for selecting engine executable from filesystem
