@@ -10,6 +10,8 @@ EngineWidget can start/stop a UCI engine. Number of best lines shown can be conf
 The main class is Chess (in package swtchess)
 Engine executable and parameters may be supplied via command line arguments, or hardcoded in the Chess class.
 
+![Screenshot 1](screen1.png?raw=true "Screenshot 1")
+
 
 Known limits
 ---
