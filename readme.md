@@ -47,15 +47,15 @@ https://wikipedia.org
 TODO / ideas for improvements
 ---
 
-Popup dialog when promoting pawn
-File dialog for selecting engine executable from filesystem
-Ability to run multiple engines at the same time
-Mode for setting up arbitrary board positions
-Ability to flip the board
-Highlight last move, add a side-to-move icon etc
-Pretty print of engine moves (algebraic notation)
-Show available moves when clicking a piece
-Entering moves by clicking on source and target square.
+- Popup dialog when promoting pawn
+- File dialog for selecting engine executable from filesystem
+- Ability to run multiple engines at the same time
+- Mode for setting up arbitrary board positions
+- Ability to flip the board
+- Highlight last move, add a side-to-move icon etc
+- Pretty print of engine moves (algebraic notation)
+- Show available moves when clicking a piece
+- Entering moves by clicking on source and target square.
 
 
 
